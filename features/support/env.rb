@@ -1,7 +1,4 @@
 require 'cucumber-api'
-require 'dotenv'
-
-Dotenv.load
 
 Before do
   puts "Start Cucumber Automated API Testing"
