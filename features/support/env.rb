@@ -1,6 +1,4 @@
-require 'cucumber'
 require 'cucumber-api'
-require 'securerandom'
 require 'dotenv'
 
 Dotenv.load
