@@ -1,5 +1,6 @@
 Given /^I open the Google search page$/ do
-  puts "hello"
+  response = HTTParty.get("#{@BASE_URL}/api/v1/versions/httparty.json")
+  puts response
 end
 
 Given /^I search for "(.*?)"$/ do |search_term|

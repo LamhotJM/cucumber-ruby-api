@@ -11,3 +11,5 @@ cucumber.sh
 .project
 .idea
 screenshot*
+cucumber-ruby-api.iml
+.envx

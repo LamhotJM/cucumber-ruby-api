@@ -1,4 +1,5 @@
 require 'cucumber'
+require 'cucumber-api'
 require 'securerandom'
 require 'httparty'
 require 'dotenv'
