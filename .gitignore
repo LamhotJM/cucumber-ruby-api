@@ -1,0 +1,13 @@
+*.swp
+*.env
+*.html
+*.mov
+reports
+report
+cucumber.json
+.ruby-version
+.DS_Store
+cucumber.sh
+.project
+.idea
+screenshot*
