@@ -1,5 +1,5 @@
 ## Description
-Desktop Web Automation Testing using Cucumber API(Ruby). 
+API Automation Testing using [cucumber-api](https://rubygems.org/gems/cucumber-api) (Ruby). 
 
 ## Getting Started
   1. Ensure you have ruby installed (built and run with 2.5.1) - use rvm
