@@ -62,7 +62,7 @@ PLATFORMS
 
 DEPENDENCIES
   cucumber-api
-  nokogiri (~> 1.7, >= 1.7.0.1)
+  nokogiri
 
 RUBY VERSION
    ruby 2.5.1p57
